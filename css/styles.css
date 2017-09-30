@@ -1,0 +1,19 @@
+img {
+	width: 100%;
+}
+
+.right h3 {
+	padding-top: 15%;
+}
+
+.banner {
+	color: white;
+	background-color: red;
+	text-align: center;
+	padding: 20px 0px;
+	margin: 45px 0px;
+}
+
+.banner h4 {
+	font-size: 36px;
+}
