@@ -2,13 +2,30 @@ img {
 	width: 100%;
 }
 
+.jumbotron {
+	background-color: #3AAFA9;
+	padding: 75px 100px;
+}
+
+.jumbotron h1 {
+	color: #17252a;
+}
+
+.jumbotron h2 {
+	color: #def2f1;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
 .right h3 {
 	padding-top: 15%;
 }
 
 .banner {
 	color: white;
-	background-color: red;
+	background-color: #2B7A78;
 	text-align: center;
 	padding: 20px 0px;
 	margin: 45px 0px;
@@ -18,9 +35,19 @@ img {
 	font-size: 36px;
 }
 
+.banner p {
+	font-size: 24px;
+	font-weight: normal;
+	color: #DEF2F1;
+}
+
 .col-md-4 {
 	width: 30%;
 	padding: 20px;
 	margin: 10px 10px 10px 25px;
-	background-color: #ebebeb;
+	background-color: #DEF2F1;
+}
+
+.left {
+	background-color: transparent;
 }
